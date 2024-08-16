@@ -31,6 +31,14 @@ Final model
 
 - Random Forest
 
+Available at;
+  |  | Notebook |
+| --- | --- |
+| Collab | https://colab.research.google.com/drive/10I_necAKEuQHOK1rlLs82YmR5ZQMONn0?usp=sharing |
+| Kaggle | https://www.kaggle.com/code/jldoyle/p2-bank-churn-model |
+| Github |  |
+| Tableau | https://public.tableau.com/shared/2X7FBNMM7?:display_count=n&:origin=viz_share_link |
+
 ### Tech-stack + Libraries
 
 - **Python version**: 3.10.12
@@ -45,9 +53,9 @@ Final model
 | Accuracy on Training Set | 0.868 |
 | Accuracy on Validation Set | 0.867 |
 
-| 184 | 221 |
+| 1549 | 46 |
 | --- | --- |
-| 46 | 1549 |
+| 221 | 184 |
 
 <img width="471" alt="Screenshot 2024-08-13 at 22 47 03" src="https://github.com/user-attachments/assets/b80bb237-4d05-4d2e-8d47-764388a8d9f1">
 
