@@ -36,7 +36,7 @@ Available at;
 | --- | --- |
 | Collab | [Link](https://colab.research.google.com/drive/10I_necAKEuQHOK1rlLs82YmR5ZQMONn0?usp=sharing) |
 | Kaggle | [Link](https://www.kaggle.com/code/jldoyle/p2-bank-churn-model) |
-| Github |  []()|
+| Github |  [Link](https://github.com/2024200/Project_2_test/blob/49143d8ea4b3c87226820f3aaba718b0fa08124d/P2_Bank_Churn_Model.ipynb)|
 | Tableau | [Dashboard](https://public.tableau.com/shared/2X7FBNMM7?:display_count=n&:origin=viz_share_link) |
 
 ### Tech-stack + Libraries
