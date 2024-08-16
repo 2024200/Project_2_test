@@ -37,7 +37,7 @@ Available at;
 | Collab | [Collab](https://colab.research.google.com/drive/10I_necAKEuQHOK1rlLs82YmR5ZQMONn0?usp=sharing) |
 | Kaggle | [Kaggle](https://www.kaggle.com/code/jldoyle/p2-bank-churn-model) |
 | GitHub |  [GitHub](https://github.com/2024200/Project_2_test/blob/49143d8ea4b3c87226820f3aaba718b0fa08124d/P2_Bank_Churn_Model.ipynb)|
-| Tableau | [Dashboard](https://public.tableau.com/shared/2X7FBNMM7?:display_count=n&:origin=viz_share_link) |
+| Tableau | [Dashboard](https://public.tableau.com/shared/5MDS85PQK?:display_count=n&:origin=viz_share_link) |
 
 ### Tech-stack + Libraries
 
@@ -63,6 +63,6 @@ Available at;
 
 ### [Seaborn Visualisations](https://github.com/2024200/Project_2_test/tree/115e00c6188cee8742a3b30574f83eda6eb4dd0d/EDA)
 
-### [Tableau Dashboard](https://public.tableau.com/shared/W97M9852J?:display_count=n&:origin=viz_share_link)
+### [Tableau Dashboard](https://public.tableau.com/shared/5MDS85PQK?:display_count=n&:origin=viz_share_link)
 
 <img width="1366" alt="Tableau" src="https://github.com/user-attachments/assets/2d1950f1-9624-411d-83ef-414eb23901e4">
