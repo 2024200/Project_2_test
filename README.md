@@ -53,6 +53,8 @@ Final model
 
 ### EDA
 
-#### [Seabron Visualisations](https://github.com/2024200/Project_2_test/tree/115e00c6188cee8742a3b30574f83eda6eb4dd0d/EDA)
+### [Seaborn Visualisations](https://github.com/2024200/Project_2_test/tree/115e00c6188cee8742a3b30574f83eda6eb4dd0d/EDA)
 
-[(*Embed Tableau Dashboard*)](https://github.com/dinkwiz/tableau_embed?tab=readme-ov-file)
+### [Tableau Dashboard](https://public.tableau.com/shared/W97M9852J?:display_count=n&:origin=viz_share_link)
+
+<img width="1366" alt="Tableau" src="https://github.com/user-attachments/assets/2d1950f1-9624-411d-83ef-414eb23901e4">
