@@ -29,7 +29,7 @@ Models used
 
 Final model
 
-- Random Forest - {'bootstrap': True, 'max_depth': 7, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 50}
+- Random Forest
 
 ### Tech-stack + Libraries
 
@@ -53,6 +53,6 @@ Final model
 
 ### EDA
 
-12 python - seaborn visualisations
+#### [Seabron Visualisations](https://github.com/2024200/Project_2_test/tree/115e00c6188cee8742a3b30574f83eda6eb4dd0d/EDA)
 
 [(*Embed Tableau Dashboard*)](https://github.com/dinkwiz/tableau_embed?tab=readme-ov-file)
