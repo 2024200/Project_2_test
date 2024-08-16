@@ -34,10 +34,10 @@ Final model
 Available at;
   |  | Notebook |
 | --- | --- |
-| Collab | https://colab.research.google.com/drive/10I_necAKEuQHOK1rlLs82YmR5ZQMONn0?usp=sharing |
-| Kaggle | https://www.kaggle.com/code/jldoyle/p2-bank-churn-model |
-| Github |  |
-| Tableau | https://public.tableau.com/shared/2X7FBNMM7?:display_count=n&:origin=viz_share_link |
+| Collab | [Link](https://colab.research.google.com/drive/10I_necAKEuQHOK1rlLs82YmR5ZQMONn0?usp=sharing) |
+| Kaggle | [Link](https://www.kaggle.com/code/jldoyle/p2-bank-churn-model) |
+| Github |  []()|
+| Tableau | [Dashboard](https://public.tableau.com/shared/2X7FBNMM7?:display_count=n&:origin=viz_share_link) |
 
 ### Tech-stack + Libraries
 
@@ -57,7 +57,7 @@ Available at;
 | --- | --- |
 | 221 | 184 |
 
-<img width="471" alt="Screenshot 2024-08-13 at 22 47 03" src="https://github.com/user-attachments/assets/b80bb237-4d05-4d2e-8d47-764388a8d9f1">
+<img width="468" alt="Screenshot 2024-08-17 at 00 05 54" src="https://github.com/user-attachments/assets/3247ab75-dcff-4eaf-b7fe-06d2bd39ff16">
 
 ### EDA
 
